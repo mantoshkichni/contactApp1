@@ -23,7 +23,8 @@ step9-add the valid credentails.
 
 step10-This will open a new window![Screenshot (72)](https://user-images.githubusercontent.com/73746406/158024908-c341e215-e36f-4762-b5a7-47da0ca83d57.png)
 
-step11-After filling the data click#submit button.This will open new webpage ,this page will show the filled data ;![Screenshot (71)](https://user-images.githubusercontent.com/73746406/158025024-b072fc9a-4856-4574-b709-20a585385f8d.png)
+step11-After filling the data click#submit button.This will open new webpage ,this page will show the filled data ;![Screenshot (73)](https://user-images.githubusercontent.com/73746406/158025171-3ef0b836-f39b-42c0-9a40-dc21936212f5.png)
+
 
 
 #by clicking the home Button At the right corner this will get you to the first page;
