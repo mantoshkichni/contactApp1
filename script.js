@@ -6,7 +6,7 @@ const bodyparser=require('body-parser');
 const mongoose=require('mongoose')
 const session=require('express-session');
 require('dotenv').config();
-const PORT=process.env.PORT;
+const PORT=process.env.PORT || 3000;
 
 
 
@@ -214,4 +214,4 @@ app.post('/signin',async(req,res)=>{
 
 
 
-app.listen(PORT||'3000',()=>console.log('Server is up and running:'+PORT));
+app.listen(PORT,()=>console.log('Server is up and running:'+PORT));
