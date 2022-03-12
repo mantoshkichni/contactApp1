@@ -1,6 +1,8 @@
 # contactApp1
 Visit the app At:https://mks-contact-app.herokuapp.com/
 
+THIS IS SESSION BASED APP
+
 
 #How to epen the app in local computer
 step1-Download the code.
