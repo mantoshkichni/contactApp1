@@ -1,9 +1,9 @@
 # contactApp1
 Visit the app At:https://mks-contact-app.herokuapp.com/
 
-THIS IS SESSION BASED APP
+**THIS IS SESSION BASED APP**
 
-WE ARE USING THE MONGODB ATALAS FOR THE DATA STORING.
+**#WE ARE USING THE MONGODB ATALAS FOR THE DATA STORING.**
 
 
 #How to epen the app in local computer
