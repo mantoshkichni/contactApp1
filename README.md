@@ -3,6 +3,8 @@ Visit the app At:https://mks-contact-app.herokuapp.com/
 
 THIS IS SESSION BASED APP
 
+WE ARE USING THE MONGODB ATALAS FOR THE DATA STORING.
+
 
 #How to epen the app in local computer
 step1-Download the code.
